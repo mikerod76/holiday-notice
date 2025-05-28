@@ -1,4 +1,3 @@
-<script type="application/json" id="holidays-json">
 {
   "holidays": [
     {
@@ -18,4 +17,3 @@
     }
   ]
 }
-</script>
