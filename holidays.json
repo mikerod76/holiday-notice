@@ -17,8 +17,8 @@
     }
     {
       "name": "Test holiday",
-      "start": "2025-05-27T23:37",
-      "end": "2025-05-27T23:50",
+      "start": "2025-05-27T23:45",
+      "end": "2025-05-27T23:30",
       "noticeDays": 3,
       "message": "Testing Holiday Notice App"
     }
