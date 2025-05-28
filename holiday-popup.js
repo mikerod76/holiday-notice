@@ -1,4 +1,3 @@
-<script type="text/plain" id="holiday-popup-js">
 (() => {
   const script = document.currentScript || (function() {
     // If we're executed via eval on admin page – grab by id instead
@@ -45,4 +44,3 @@
     if (msUntilEnd > 0) setTimeout(() => bar.remove(), msUntilEnd);
   }
 })();
-</script>
