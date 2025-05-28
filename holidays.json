@@ -4,23 +4,23 @@
       "id": "independence_2025",
       "name": "Independence Day 2025",
       "start": "2025-07-03T17:00:00-04:00",
-      "end":   "2026-07-07T08:00:00-04:00",
+      "end":   "2025-07-07T08:00:00-04:00",
       "noticeDays": 3,
-      "message": "Happy Independence Day! Our Help Desk is closed and will resume normal hours on July 7 at 8 AM ET."
+      "message": "Happy Independence Day! Our Help Desk is closed and will resume normal hours on July 7 at 8 AM ET."
     },
     {
       "id": "labor_day_2025",
       "name": "Labor Day 2025",
       "start": "2025-08-29T17:00:00-04:00",
       "end":   "2025-09-02T08:00:00-04:00",
-      "message": "We are observing Labor Day. Support reopens September 2 at 8 AM ET."
-    }
+      "message": "We are observing Labor Day. Support reopens September 2 at 8 AM ET."
+    },
     {
-      "id": "Test_Holiday",
+      "id": "test_holiday",
       "name": "Test Holiday App",
       "start": "2025-05-27T23:48:00-04:00",
-      "end":   "2026-05-30T08:00:00-04:00",
-      "message": "We are observing Labor Day. Support reopens September 2 at 8 AM ET."
+      "end":   "2025-05-30T08:00:00-04:00",
+      "message": "This is a test banner for the holiday notice app."
     }
   ]
 }
